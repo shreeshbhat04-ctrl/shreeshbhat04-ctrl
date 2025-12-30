@@ -21,14 +21,14 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 ## ⚒️ Technical Skills
 
 ### 🧑‍💻 Languages
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" />
   <img src="https://skillicons.dev/icons?i=matlab" />
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🤖 AI / ML
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
   <img src="https://skillicons.dev/icons?i=opencv" />
 </p>
@@ -37,7 +37,7 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 - Transformers, Computer Vision, OCR  
 
 ### ⚙️ Backend & Frameworks
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,react" />
   <img src="https://skillicons.dev/icons?i=selenium" />
 </p>
@@ -46,7 +46,7 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 - Scrapy  
 
 ### 🗄️ Databases
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" />
 </p>
 
@@ -54,8 +54,8 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 - BigQuery  
 
 ### ☁️ Cloud & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,githubactions" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,githubactions,jupyter" />
 </p>
 
 - CI/CD Pipelines  
