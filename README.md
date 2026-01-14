@@ -1,7 +1,7 @@
 # Hi, I’m Shreesha HB 👋
 
 🎓 B.E. Electronics & Communication Engineering (2023–2027)  
-🤖 AI/ML Enthusiast | 🧠 Problem Solver | ⚙️ Learning Backend Services  
+ AI/ML Enthusiast | Problem Solver | Learning Backend Services  
 📍 Bengaluru, India
 
 I’m a highly motivated engineering student passionate about building **scalable AI systems** and **production-ready backend services**.  
@@ -20,14 +20,14 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 
 ## ⚒️ Technical Skills
 
-### 🧑‍💻 Languages
+### Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" />
   <img src="https://skillicons.dev/icons?i=matlab" />
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🤖 AI / ML
+###  AI / ML
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
   <img src="https://skillicons.dev/icons?i=opencv" />
@@ -36,7 +36,7 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 - LLMs, RAG, LangGraph Agents  
 - Transformers, Computer Vision, OCR  
 
-### ⚙️ Backend & Frameworks
+###  Backend & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,react" />
   <img src="https://skillicons.dev/icons?i=selenium" />
@@ -45,7 +45,7 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 - LangChain  
 - Scrapy  
 
-### 🗄️ Databases
+###  Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" />
 </p>
@@ -53,7 +53,7 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 - FAISS, Chroma  
 - BigQuery  
 
-### ☁️ Cloud & Tools
+###  Cloud & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,githubactions,jupyter" />
 </p>
@@ -105,7 +105,7 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 
 
 
-<!--
+<--
 ## 📈 GitHub Stats (commented for clean look)
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreeshbhat04-ctrl&theme=transparent)
 ![Streak](https://streak-stats.demolab.com?user=shreeshbhat04-ctrl)
@@ -115,7 +115,7 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 
 ## 🌐 Connect With Me
 - 📧 Email: shreeshbhat04@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/shreeshahb  
+- 💼 LinkedIn: https://www.linkedin.com/in/shreesha-bhat-55b464373/ 
 - 💻 GitHub: https://github.com/shreeshbhat04-ctrl
 
 ---
