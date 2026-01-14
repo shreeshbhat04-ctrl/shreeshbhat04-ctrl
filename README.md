@@ -105,7 +105,7 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 
 
 
-<--
+<!--
 ## 📈 GitHub Stats (commented for clean look)
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreeshbhat04-ctrl&theme=transparent)
 ![Streak](https://streak-stats.demolab.com?user=shreeshbhat04-ctrl)
