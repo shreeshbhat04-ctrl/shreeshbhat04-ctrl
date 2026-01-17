@@ -8,13 +8,17 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
-jobs:
+jobs: 
   build:
     runs-on: ubuntu-latest
     steps:
       # Checkout the repo
       - uses: actions/checkout@v4
+        with:
+          fetch-depth:  0
 
       # Generate the snake files
       - uses:  Platane/snk@v3
@@ -29,15 +33,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Show build status
-      - name: Show build status
-        run: git status
-
       # Push new files to the output branch
-      - name: Push new files to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Push files to output branch
+        uses: peaceiris/actions-gh-pages@v3
         with: 
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          destination_dir: ./
+          cname: false
