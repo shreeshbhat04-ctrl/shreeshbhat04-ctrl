@@ -103,7 +103,7 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 <h2 align="center">MY CONTRIBUTIONS</h2>
 <br/>
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jazzminegarg/jazzminegarg/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shreeshbhat04-ctrl/shreeshbhat04-ctrl/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 
