@@ -100,12 +100,12 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 </p>
 
 
-
 <h2 align="center">MY CONTRIBUTIONS</h2>
 <br/>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shreeshbhat04-ctrl/shreeshbhat04-ctrl/output/dist/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/shreeshbhat04-ctrl/shreeshbhat04-ctrl/gh-pages/github-contribution-grid-snake-dark.svg" />
 </div>
+
 
 
 
