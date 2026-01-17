@@ -3,26 +3,29 @@ name: Generate Snake
 on:
   schedule:
     # every 6 hours
-    - cron: "0 */6 * * *"
+    - cron:  "0 */6 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       # Checkout the repo
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       # Generate the snake files
-      - uses: Platane/snk@v3
+      - uses:  Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
+          outputs:  |
             dist/github-contribution-grid-snake.gif
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-dark.gif?palette=github-dark
+            dist/github-contribution-grid-snake. svg
+            dist/github-contribution-grid-snake-dark.svg? palette=github-dark
+            dist/github-contribution-grid-snake-dark.gif? palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -33,7 +36,7 @@ jobs:
       # Push new files to the output branch
       - name: Push new files to output branch
         uses: crazy-max/ghaction-github-pages@v3
-        with:
+        with: 
           target_branch: output
           build_dir: dist
         env:
