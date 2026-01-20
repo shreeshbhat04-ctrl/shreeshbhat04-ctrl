@@ -33,7 +33,7 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
   <img src="https://skillicons.dev/icons?i=opencv" />
 </p>
 
-- LLMs, RAG, LangGraph Agents  
+- LLMs, RAG, LangGraph Agents,Mediapipe  
 - Transformers, Computer Vision, OCR  
 
 ###  Backend & Frameworks
