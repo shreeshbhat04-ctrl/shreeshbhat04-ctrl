@@ -31,10 +31,15 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
   <img src="https://skillicons.dev/icons?i=opencv" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </p>
 
-- LLMs, RAG, LangGraph Agents,Mediapipe  
-- Transformers, Computer Vision, OCR  
+
+
+- LLMs, RAG, LangGraph Agents,Mediapipe,Transformers  
 
 ###  Backend & Frameworks
 <p align="center">
