@@ -65,7 +65,7 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,githubactions,jupyter" />
   <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black">
-  <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white">
+  <img src="https://img.shields.io/badge/Render-131415?style=for-the-badge&logo=render&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 
