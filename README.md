@@ -1,4 +1,4 @@
-# Hi, I’m Shreesha HB 
+<img  src="https://readme-typing-svg.herokuapp.com?color=00A1E0&center=true&vCenter=true&size=40&width=900&height=80&lines=Hi,+I'm+Shreesha+HB"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
@@ -22,14 +22,16 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 
 ## ⚒️ Technical Skills
 
-### Languages
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">Languages
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,ts" />
   <img src="https://skillicons.dev/icons?i=matlab" />
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-###  AI / ML
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">AI/ML
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
   <img src="https://skillicons.dev/icons?i=opencv" />
@@ -42,7 +44,7 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 
 - LLMs, RAG, LangGraph Agents,Mediapipe,Transformers  
 
-###  Backend & Frameworks
+### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Backend & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,tailwindcss,vite" />
   <img src="https://skillicons.dev/icons?i=selenium" />
@@ -51,7 +53,7 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 - LangChain  
 - Scrapy  
 
-###  Databases
+### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,firebase" />
 </p>
@@ -59,7 +61,7 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 - FAISS, Chroma  
 - BigQuery  
 
-###  Cloud & Tools
+### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Cloud & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,githubactions,jupyter" />
 </p>
