@@ -22,7 +22,7 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,ts,tailwindcss,vite" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,ts" />
   <img src="https://skillicons.dev/icons?i=matlab" />
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
@@ -44,7 +44,7 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 
 ###  Backend & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,tailwindcss,vite" />
   <img src="https://skillicons.dev/icons?i=selenium" />
 </p>
 
