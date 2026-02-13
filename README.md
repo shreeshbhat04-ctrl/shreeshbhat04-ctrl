@@ -22,7 +22,7 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,ts,tailwindcss,vite" />
   <img src="https://skillicons.dev/icons?i=matlab" />
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
@@ -31,6 +31,7 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
   <img src="https://skillicons.dev/icons?i=opencv" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -43,7 +44,7 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 
 ###  Backend & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,react" />
+  <img src="https://skillicons.dev/icons?i=fastapi,react,nextjs" />
   <img src="https://skillicons.dev/icons?i=selenium" />
 </p>
 
@@ -52,7 +53,7 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 
 ###  Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,firebase" />
 </p>
 
 - FAISS, Chroma  
