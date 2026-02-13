@@ -1,4 +1,6 @@
-# Hi, I’m Shreesha HB 👋
+# Hi, I’m Shreesha HB 
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 🎓 B.E. Electronics & Communication Engineering (2023–2027)  
  AI/ML Enthusiast | Problem Solver | Learning Backend Services  
@@ -7,7 +9,7 @@
 I’m a highly motivated engineering student passionate about building **scalable AI systems** and **production-ready backend services**.  
 My interests lie at the intersection of **AI/ML, agentic systems, and software engineering**, with a strong foundation in **DSA and system thinking**.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 🔍 What I’m Currently Focused On
 - Designing **Agentic AI systems** using LLMs & RAG
@@ -15,7 +17,7 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 - Writing **clean, maintainable, production-grade code**
 - Improving **problem-solving skills** through competitive programming
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 
 ## ⚒️ Technical Skills
@@ -37,8 +39,6 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </p>
-
-
 
 - LLMs, RAG, LangGraph Agents,Mediapipe,Transformers  
 
@@ -67,7 +67,7 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 - CI/CD Pipelines  
 - HuggingFace, Streamlit  
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 📊 Competitive Programming
 
@@ -105,6 +105,7 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
   </a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <h2 align="center">MY CONTRIBUTIONS</h2>
 <br/>
@@ -122,13 +123,13 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 ![Streak](https://streak-stats.demolab.com?user=shreeshbhat04-ctrl)
 -->
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 🌐 Connect With Me
 - 📧 Email: shreeshbhat04@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/shreesha-bhat-55b464373/ 
 - 💻 GitHub: https://github.com/shreeshbhat04-ctrl
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ⭐ *Always open to internships, collaborative projects, and learning opportunities in AI/ML and backend engineering.*
