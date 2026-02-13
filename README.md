@@ -46,16 +46,16 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Backend & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,tailwindcss,vite" />
+  <img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,tailwindcss,vite,postman" />
   <img src="https://skillicons.dev/icons?i=selenium" />
+  <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+  <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white">
 </p>
 
-- LangChain  
-- Scrapy  
 
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,firebase,mongodb,nodejs,npm" />
 </p>
 
 - FAISS, Chroma  
@@ -64,10 +64,13 @@ My interests lie at the intersection of **AI/ML, agentic systems, and software e
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Cloud & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,githubactions,jupyter" />
+  <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black">
+  <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 
 - CI/CD Pipelines  
-- HuggingFace, Streamlit  
+- Streamlit  
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
